@@ -6,7 +6,6 @@
     "fullName": "flowfox", 
     "id": "jid1-AzlBOpEkCrfEHg", 
     "description": "Share sites in your influx team inbox",
-     "dependencies": ["toolbarbutton", "vold-utils", "api-utils", "addon-kit"],
     "preferences": [
         {
             "type": "string",
